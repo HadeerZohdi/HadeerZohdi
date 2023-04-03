@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HadeerZohdi
-- 👀 I’m interested in Frontend Development and AI
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on big projects within a Tachnology organization
+- 👀 I’m interested in Frontend Development
 - 📫 How to reach me? By Email: hadeer.zohdi@gmail.com
 
 <!---
